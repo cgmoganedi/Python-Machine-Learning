@@ -17,12 +17,12 @@ this class is binary in our case (diabetic or not).
 Sample:
     6, 148, 72, 35, 0, 33.6, 0.627, 50, 1.379, TRUE
     which means:
-    The patient had 6 pregnancies ...
+    The patient has had 6 pregnancies ...
 
     and is diabetic
 
     1, 85, 66, 29, 0, 26.6, 0.351, 31, 1.1426, FALSE
     which means:
-    The patient had 1 pregnancy ...
+    The patient has had 1 pregnancy ...
     
     and is not diabetic 
